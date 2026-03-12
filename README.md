@@ -1,6 +1,8 @@
 # SharkByte
 
 NFC-powered campus engagement platform for KCL — one tap on your student ID card earns XP, builds streaks, and puts you on the leaderboard.
+HackLondon 2026 Hardware Track Winner (sponsored by Qualcomm)
+By Adam Axelrod, Dheer Maheshwari, Mahraz Ahmed, Vayun Khare
 
 ---
 
