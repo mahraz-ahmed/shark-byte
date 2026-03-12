@@ -6,6 +6,8 @@ HackLondon 2026 Hardware Track Winner (sponsored by Qualcomm)
 
 By Adam Axelrod, Dheer Maheshwari, Mahraz Ahmed, Vayun Khare
 
+View on [Devpost](https://devpost.com/software/sharkbyte-8v5m1c)
+
 ---
 
 ## The idea
